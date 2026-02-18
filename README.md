@@ -2,7 +2,7 @@
 
 I'm a passionate developer specializing in **backend development** and **cybersecurity**. I work on a variety of projects, from web applications to custom security tools, and I'm always eager to learn and improve my skills.
 
-A fun fact about me: I love **Fire-type Pokémon** because they're as dynamic and fiery as my passion for coding.
+
 
 ---
 
